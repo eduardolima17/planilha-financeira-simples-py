@@ -1,4 +1,17 @@
 #  Planilha Financeira Simples 
-- Nesse código desenvolvi uma planilha financeira onde simplesmente pega o saldo inicial, receitas e despesas e calcula o saldo final subtraindo as despesas das receitas e somando o saldo inicial. Em seguida, mostra os resultados na tela.
 
-- Claro, este é apenas um código básico e pode ser estendido para incluir recursos mais avançados como classificação de despesas, cálculo de média, gráficos e outros., dependendo das necessidades específicas da planilha financeira que você está criando.
+Este projeto consiste em um código básico para gerenciamento financeiro, no qual é possível calcular o saldo final a partir de um saldo inicial, somando receitas e subtraindo despesas. Os valores são exibidos ao final da execução.
+
+Apesar de simples, o código serve como base para futuras melhorias, como:
+
+Classificação de receitas e despesas;
+
+Cálculo de médias e totais por categoria;
+
+Geração de gráficos;
+
+Exportação para arquivos;
+
+Interface gráfica, entre outros.
+
+Esse projeto é ideal para quem está começando a desenvolver ferramentas de controle financeiro e deseja expandir suas habilidades com Python.
